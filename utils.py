@@ -11,7 +11,7 @@ import math
 import torch.nn as nn
 
 import torch.nn.init as init
-print(23333)
+print(1)
 
 def get_mean_and_std(dataset):
     '''Compute the mean and std value of dataset.'''
